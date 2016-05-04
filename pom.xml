@@ -8,7 +8,6 @@
     <artifactId>jim.nl.hart</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>android</module>
         <module>backend</module>
     </modules>
     <packaging>pom</packaging>
